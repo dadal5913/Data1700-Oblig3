@@ -1,4 +1,4 @@
-OsloMet brukernavn: dadal5913 GitHub brukernavn: dadal5913 GitHub repo URL: https://github.com/dadal5913/Data1700-Oblig3 Fullt navn: Daniel Pedersen Dalen
+OsloMet brukernavn: dadal5913 GitHub brukernavn: dadal5913 GitHub repo URL: https://github.com/dadal5913/Data1700-Oblig3/tree/master Fullt navn: Daniel Pedersen Dalen
 
 Beskrivelse:
 
